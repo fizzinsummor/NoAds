@@ -1,0 +1,9 @@
+安裝
+npm install -g anyproxy
+npm i anyproxy --save
+
+proxy http://127.0.0.1:8001
+測試:curl http://httpbin.org/user-agent --proxy http://127.0.0.1:8001
+
+使用
+anyproxy --rule fizzRules.js

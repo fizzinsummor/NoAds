@@ -1,0 +1,22 @@
+{
+  "name": "noads",
+  "version": "1.0.0",
+  "description": "Close ads with proxy server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fizzinsummor/NoAds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fizzinsummor/NoAds/issues"
+  },
+  "homepage": "https://github.com/fizzinsummor/NoAds#readme",
+  "dependencies": {
+    "anyproxy": "^4.0.12"
+  }
+}
